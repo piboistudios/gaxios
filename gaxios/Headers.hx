@@ -1,0 +1,3 @@
+package gaxios;
+
+typedef Headers = { };
